@@ -68,5 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-## Here is my attempt at creating a simple Tweet component. I feel like a Pro ;)
-<img width="588" alt="Screen Shot 2021-09-29 at 3 33 04 PM" src="https://user-images.githubusercontent.com/79149164/135290157-92b5d01d-1e74-4636-8345-92b3e12b83d7.png">
